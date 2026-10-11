@@ -1,10 +1,6 @@
 # ARQ-MX — Urban Environment & Metabolic Health
 
 <p align="center">
-  <img src="src/assets/images/Logo.png" alt="ARQ-MX Logo" width="180" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
-</p>
-
-<p align="center">
   <strong>An interactive mobile platform to assess, visualize, and simulate the impact of urban design on metabolic health.</strong>
 </p>
 
